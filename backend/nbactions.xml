@@ -16,7 +16,7 @@
                 <exec.mainClass>com.devsuperior.dsmeta.DsmetaApplication</exec.mainClass>
                 <exec.executable>java</exec.executable>
                 <Env.TWILIO_SID>AC5b3e30610a93fc744b449274f7d5da92</Env.TWILIO_SID>
-                <Env.TWILIO_KEY>00946fc6804a2c6d5a05208106cbfaea</Env.TWILIO_KEY>
+                <Env.TWILIO_KEY>7e377e4ad5e8033d3439f67f873166a9</Env.TWILIO_KEY>
                 <Env.TWILIO_PHONE_FROM>+13466333910</Env.TWILIO_PHONE_FROM>
                 <Env.TWILIO_PHONE_TO>+5561996273719</Env.TWILIO_PHONE_TO>
                 
@@ -42,7 +42,7 @@
                 <exec.executable>java</exec.executable>
                 <jpda.listen>true</jpda.listen>
                 <Env.TWILIO_SID>AC5b3e30610a93fc744b449274f7d5da92</Env.TWILIO_SID>
-                <Env.TWILIO_KEY>00946fc6804a2c6d5a05208106cbfaea</Env.TWILIO_KEY>
+                <Env.TWILIO_KEY>7e377e4ad5e8033d3439f67f873166a9</Env.TWILIO_KEY>
                 <Env.TWILIO_PHONE_FROM>+13466333910</Env.TWILIO_PHONE_FROM>
                 <Env.TWILIO_PHONE_TO>+5561996273719</Env.TWILIO_PHONE_TO>
             </properties>
@@ -75,7 +75,7 @@
             </goals>
             <properties>
                 <Env.TWILIO_SID>AC5b3e30610a93fc744b449274f7d5da92</Env.TWILIO_SID>
-                <Env.TWILIO_KEY>00946fc6804a2c6d5a05208106cbfaea</Env.TWILIO_KEY>
+                <Env.TWILIO_KEY>7e377e4ad5e8033d3439f67f873166a9</Env.TWILIO_KEY>
                 <Env.TWILIO_PHONE_FROM>+13466333910</Env.TWILIO_PHONE_FROM>
                 <Env.TWILIO_PHONE_TO>+5561996273719</Env.TWILIO_PHONE_TO>
             </properties>
@@ -91,7 +91,7 @@
             </goals>
             <properties>
                 <Env.TWILIO_SID>AC5b3e30610a93fc744b449274f7d5da92</Env.TWILIO_SID>
-                <Env.TWILIO_KEY>00946fc6804a2c6d5a05208106cbfaea</Env.TWILIO_KEY>
+                <Env.TWILIO_KEY>7e377e4ad5e8033d3439f67f873166a9</Env.TWILIO_KEY>
                 <Env.TWILIO_PHONE_FROM>+13466333910</Env.TWILIO_PHONE_FROM>
                 <Env.TWILIO_PHONE_TO>+5561996273719</Env.TWILIO_PHONE_TO>
             </properties>
@@ -106,7 +106,7 @@
             </goals>
             <properties>
                 <Env.TWILIO_SID>AC5b3e30610a93fc744b449274f7d5da92</Env.TWILIO_SID>
-                <Env.TWILIO_KEY>00946fc6804a2c6d5a05208106cbfaea</Env.TWILIO_KEY>
+                <Env.TWILIO_KEY>7e377e4ad5e8033d3439f67f873166a9</Env.TWILIO_KEY>
                 <Env.TWILIO_PHONE_FROM>+13466333910</Env.TWILIO_PHONE_FROM>
                 <Env.TWILIO_PHONE_TO>+5561996273719</Env.TWILIO_PHONE_TO>
             </properties>
