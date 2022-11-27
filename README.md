@@ -4,7 +4,7 @@
 
 ## Projeto Full Stack da Semana Spring + ReactJS
 
-Este projeto foi desenvolvido no treinamento gratuito de Spring + ReactJS fornecido pela [DevSuperior](http://www.devsuperior.com.br) no período de 14/11/2022 à 20/11/2022.
+Este projeto foi desenvolvido no treinamento gratuito de Spring + ReactJS fornecido pela [DevSuperior](http://www.devsuperior.com.br) no período de 14/11/2022 à 20/11/2022. Para informações adicionais, acesse o [Git official do evento](https://github.com/devsuperior/sds-dsmeta)
 
 | Projeto                     | DevSuperior - DSMeta         |
 | --------------------------- | ---------------------------- |
