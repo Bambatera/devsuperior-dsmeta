@@ -1,3 +1,5 @@
+<img src="./devsuperior.svg" height=30 style="float: right;" />
+
 # DSMETA
 
 ## Projeto Full Stack da Semana Spring + ReactJS
