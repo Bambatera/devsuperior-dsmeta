@@ -60,3 +60,5 @@ O projeto de back-end foi criado com o [Spring Initializr](https://start.spring.
 ### Hospedagem
 
 O backend está no [Heroku](www.heroku.com).
+
+Infelizmente o suporte gratuito ao Heroku foi encerrado no dia 28/11/2022, portanto, o projeto não está funcional.
